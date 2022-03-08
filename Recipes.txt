@@ -5,3 +5,7 @@ Welcome to recipes
 
 Biryani
 Chicken
+
+kheer
+
+mutton
